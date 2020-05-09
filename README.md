@@ -1,4 +1,4 @@
-# DASCTF 征题 Docker 模板-U-b-u-n-t-u-2-0-.-0-4
+# DASCTF 征题 Docker 模板-Ubuntu20.04-Openssh-Normal
 ## 内含组件
 Ubuntu20.04
 - Openssh
