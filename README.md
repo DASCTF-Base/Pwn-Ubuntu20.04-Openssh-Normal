@@ -1,8 +1,7 @@
 # DASCTF 征题 Docker 模板-Ubuntu20.04-Openssh-Normal
 ## 内含组件
-Ubuntu20.04
+- Ubuntu20.04
 - Openssh
-- Normal
 
 ## 使用方法
 1. 请在 https://github.com/DASCTF-Test/Pwn-Ubuntu20.04-Openssh-Normal-Test  基础上修改即可。
